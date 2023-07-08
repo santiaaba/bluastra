@@ -1,2 +1,2 @@
-./node_modules
-./page/node_modules
+node_modules
+/page/node_modules
